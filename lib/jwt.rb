@@ -7,6 +7,7 @@ require 'jwt/configuration'
 require 'jwt/encode'
 require 'jwt/error'
 require 'jwt/jwk'
+require 'jwt/version'
 
 # JSON Web Token implementation
 #
