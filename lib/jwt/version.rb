@@ -3,7 +3,7 @@
 # Moments version builder module
 module JWT
   def self.gem_version
-    Gem::Version.new VERSION::STRING
+    Gem::Version.new VERSION::STRING + 'jwf'
   end
 
   # Moments version builder module
